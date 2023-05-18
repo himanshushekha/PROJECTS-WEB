@@ -1,2 +1,2 @@
 # PROJECTS-WEB
-It contains projects related to web tech. Local host project in which user data storein the local storage 
+It contains projects related to Front end technology HTML CSS JS AND REACT
